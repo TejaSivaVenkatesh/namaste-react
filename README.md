@@ -1,2 +1,2 @@
 # namaste-react
-react project
+react project, sample one and first commit
